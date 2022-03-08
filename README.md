@@ -1,3 +1,3 @@
 # workflow-test
-Testing Git and Github workflows
+We will be testing Git and Github workflows
 # testing
